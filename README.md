@@ -17,7 +17,7 @@ Finally, LDA is applied to reduce the dimensionality of the dataset to 3 and vis
 
 <head>
   <meta charset="UTF-8">
-  <title>Breast Cancer Learning Project</title>
+
 </head>
 
 <body>
